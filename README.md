@@ -1,4 +1,4 @@
-# A Tool that reverse Java source codes to UML class and sequence diagrams (UML parser) 
+# A Tool that reverse Java source code to UML class and sequence diagrams (UML parser)
 The UML Parser is a web-based application that receives Java source codes as input, analyzes the Java source codes, and finally produces UML Class and Sequence Diagrams. This application uses Tomcat and MySQL database, I have created a simple database (this application purpose was Reverse Engineering NOT a Complex database :D )      
 
 # Tools used
