@@ -7,6 +7,9 @@ The below Figure, it represents the main flow and architecture of UML Parser. In
 ![](nbproject/Flow.png)
 
 # UML Parser Database
+
+Please note that you have to install mysql database, create the below tables, create user manually in the data base and change the connection string which located \src\java\DB\DBManager.java  
+
 the below are the database tables 
 
 images :
@@ -40,11 +43,25 @@ imagetype:
         ImageTypeID    int   |
         ImageTypeDescription   varchar(45) 
         
-note that you have to create user manually in the data base 
-
-MySQL download link : https://dev.mysql.com/downloads/installer/ 
+ 
 
 # User Interface of UML Parser
 
+![](nbproject/login.png) 
+
+put the .java source code in the input path that the website gave you 
+![](nbproject/UMLParserMenu.png)
+
+![](nbproject/UMLParserAdminConsole.png)
+
+
+
+
+# ACKNOWLEDGMENT
+
+This work was done for my master’s degree in Jordan University (Jordan/Amman). It took me a lot of time and effort to finish this application alone 😊. 
+Now I’m sharing my work to you hoping this might be helpful.
+Ala’ Almarayat  
+ 
 
 
